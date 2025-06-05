@@ -7,7 +7,7 @@ This AI-powered chatbot enables users to search and explore product information 
 
 ## 🖼️ Demo
 
-![Chatbot Demo](assets\rug_screenshot.png")
+![Chatbot Demo](assets/rug_screenshot.png)
 
 > _This image shows the chatbot answering queries about e-commerce products._
 
