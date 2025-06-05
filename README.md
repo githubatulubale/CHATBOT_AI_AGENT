@@ -1,12 +1,13 @@
+
 # CHATBOT_AI_AGENT
-# CHATBOT_AI_AGENT
+
 # 🧠 Chatbot AI Agent for E-commerce Product Search
 
 This AI-powered chatbot enables users to search and explore product information (such as rugs or clothing) from a CSV file using natural language. It uses **LangChain**, **Gemini embeddings**, **FAISS** vector search, and a simple frontend interface (Streamlit).
 
 ## 🖼️ Demo
 
-![Chatbot Demo](assets/"C:\Users\Admin\Desktop\clothing-chatbot\assets\rug_screenshot.png")
+![Chatbot Demo](assets\rug_screenshot.png")
 
 > _This image shows the chatbot answering queries about e-commerce products._
 
@@ -17,8 +18,6 @@ This AI-powered chatbot enables users to search and explore product information 
 Follow the steps below to get your Chatbot AI Agent running locally:
 
 ---
-
-### ✅ Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/chatbot-ai-agent.git
