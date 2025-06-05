@@ -9,7 +9,7 @@ from langchain.chains import RetrievalQA
 import google.generativeai as genai
 
 # Set API key directly
-api_key = "AIzaSyAKYOsFeGepACfnfbVpXlBLr5JORZP7kCQ"
+api_key = 
 
 # Configure Google Generative AI
 genai.configure(api_key=api_key)
